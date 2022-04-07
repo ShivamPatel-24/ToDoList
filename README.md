@@ -1,7 +1,6 @@
 # ToDoList
 
-Created a project to practice Restful APIs using Express.js and Node.js.
-
+Created a project to practice Restful APIs using Express, Node, and MongoDB.
 
 Check it out on - https://floating-depths-56654.herokuapp.com/
 
